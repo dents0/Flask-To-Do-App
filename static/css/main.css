@@ -1,0 +1,52 @@
+body, html {
+    background-color: #6c85ad;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.content {
+    background-color: #ffffff;
+    padding: 3% 5%;
+    margin: 5% auto;
+    width: 400px;
+}
+
+h1, h4 {
+    text-align: center;
+}
+
+h1 {
+    color: #2b2a2b;
+    font-family: 'Geostar', cursive;
+}
+
+table, td, th {
+    border: 1px solid #aaa;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 2px 5px;
+}
+
+#tasks {
+    font-family: 'Rock Salt', cursive;
+}
+
+form {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#content {
+    width: 70%;
+}
